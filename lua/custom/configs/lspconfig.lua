@@ -1,4 +1,4 @@
-local base = require("plugins.config.lspconfig")
+local base = require("plugins.configs.lspconfig")
 
 local on_attach = base.on_attach
 local capabilities = base.capabilities
